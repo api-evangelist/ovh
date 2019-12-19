@@ -1,0 +1,78 @@
+{
+    "name": "OVH",
+    "description": "<p>OVH offers a vast range of IT services for businesses and technophiles in particular. From web hosting to virtual data centers, dedicated servers and storage solutions, all our services benefit from continuous innovation and are regularly enriched with new features. Cloud infrastructures, dedicated hosting, virtual servers, domain names, e-commerce, storage and archives, OVH brings you the solutions you need develop all your IT projects.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ovh-logo.png",
+    "tags": [
+        "cloud",
+        "compute",
+        "have api",
+        "storage"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ovh\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OVH",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/ovh-logo.png",
+            "humanURL": "http:\/\/www.ovh.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ovh-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Articles",
+            "url": "http:\/\/www.ovh.com\/us\/news\/articles\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.ovh.com\/us\/news\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.ovh.com\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/api.ovh.us\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/api.ovh.us\/console\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@ovh.us"
+        },
+        {
+            "type": "Forum RSS",
+            "url": "https:\/\/forum.ovh.us\/external.php?type=RSS2"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ovh"
+        },
+        {
+            "type": "Terms Of Service",
+            "url": "http:\/\/www.ovh.com\/us\/support\/termsofservice\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OVH"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.ovh.com\/"
+        }
+    ]
+}
